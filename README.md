@@ -1,3 +1,3 @@
 # NPM-Assignment
-## Durgesh_Gupta
+## Durgesh Gupta
 ### Emp No- 1470
